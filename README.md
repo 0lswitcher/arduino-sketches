@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0lswitcher/dotfiles/refs/heads/main/md-assets/arduino.png"
+  <img src="https://raw.githubusercontent.com/0lswitcher/arduino-sketches/refs/heads/main/md-assets/arduino.png"
    style="width: 256px; height: 256px">
 </p>
 
@@ -14,9 +14,9 @@
 
 ## Repository Structure
 
-arduino-sketches/
-├── templates/ # General-purpose sketches for reuse
-├── projects/ # Hardware-specific builds
+arduino-sketches/\
+├── templates/ # General-purpose sketches for reuse\
+├── projects/  # Hardware-specific builds\
 └── md-assets/ # Images and other README assets
 
 
